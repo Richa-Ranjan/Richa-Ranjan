@@ -16,7 +16,7 @@ I believe in continuous learning, collaborative development, and pushing boundar
 
 ## 👩‍💻 Tech Stack & Skills
 
-- **Languages**: JavaScript, Java, C, C++, HTML, CSS  
+- **Languages**: JavaScript, Java, C, HTML, CSS  
 - **Frameworks & Libraries**: React.js, Node.js, Express.js, Spring Boot, Bootstrap  
 - **Tools & Platforms**: Git, GitHub, Postman, VS Code, MongoDB, 
 - **Core CS**: Operating Systems, DBMS, OOPs
