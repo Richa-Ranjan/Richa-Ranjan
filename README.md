@@ -1,49 +1,91 @@
-<h1 align="center">Hi 👋, I'm Richa Ranjan</h1>
+<div align="center">
 
-<h3 align="center">
-Software Developer | MERN Stack Developer | Java | Python | Open to Work
-</h3>
+# Hi 👋 I'm Richa Ranjan
 
-<p align="center">
-Passionate about building scalable web applications, solving DSA problems and exploring AI-powered software solutions.
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+MERN+Developer;Java+%7C+Python+Developer;Machine+Learning+Enthusiast;Open+to+Software+Engineering+Roles"/>
+
+<p>
+
+<a href="mailto:ranjanricha975@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rranjan-tech">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/Richa-Ranjan">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/ranjanricha12">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
 </p>
 
----
+<img src="https://komarev.com/ghpvc/?username=Richa-Ranjan&style=flat-square&color=blue"/>
 
-## 🚀 About Me
-
-🎓 B.Tech in Computer Science & Business Systems (2022–2026)
-
-💻 Interested in Full Stack Development
-
-🌱 Currently improving DSA, System Design & Backend Development
-
-🚀 Looking for Software Development Engineer opportunities
-
-📫 Email:
-**ranjanricha975@gmail.com**
-
-🌐 LinkedIn:
-https://www.linkedin.com/in/rranjan-tech
-
-💻 GeeksforGeeks:
-https://www.geeksforgeeks.org/profile/ranjanricha12
+</div>
 
 ---
 
-## 🛠 Tech Stack
+# 💫 About Me
 
-### Languages
+```java
+class RichaRanjan {
+
+ String education = "B.Tech CSBS (2022-2026)";
+
+ String location = "Dhanbad, Jharkhand";
+
+ String role = "Software Engineer";
+
+ String[] languages = {
+     "Java",
+     "Python",
+     "JavaScript",
+     "SQL"
+ };
+
+ String[] specialization = {
+     "Full Stack Development",
+     "Backend Development",
+     "Machine Learning"
+ };
+
+}
+```
+
+---
+
+## 🚀 Currently Working On
+
+- Improving Data Structures & Algorithms
+
+- Backend Engineering
+
+- System Design
+
+- Building scalable MERN applications
+
+- Machine Learning Projects
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
 
 <p>
 
 <img src="https://skillicons.dev/icons?i=java"/>
 
-<img src="https://skillicons.dev/icons?i=cpp"/>
-
 <img src="https://skillicons.dev/icons?i=python"/>
 
-<img src="https://skillicons.dev/icons?i=js"/>
+<img src="https://skillicons.dev/icons?i=cpp"/>
+
+<img src="https://skillicons.dev/icons?i=javascript"/>
 
 <img src="https://skillicons.dev/icons?i=html"/>
 
@@ -53,21 +95,21 @@ https://www.geeksforgeeks.org/profile/ranjanricha12
 
 ---
 
-### Frontend
+## Frontend
 
 <p>
 
 <img src="https://skillicons.dev/icons?i=react"/>
 
-<img src="https://skillicons.dev/icons?i=bootstrap"/>
-
 <img src="https://skillicons.dev/icons?i=vite"/>
+
+<img src="https://skillicons.dev/icons?i=bootstrap"/>
 
 </p>
 
 ---
 
-### Backend
+## Backend
 
 <p>
 
@@ -79,7 +121,7 @@ https://www.geeksforgeeks.org/profile/ranjanricha12
 
 ---
 
-### Database
+## Database
 
 <p>
 
@@ -91,7 +133,7 @@ https://www.geeksforgeeks.org/profile/ranjanricha12
 
 ---
 
-### Tools
+## Tools
 
 <p>
 
@@ -99,69 +141,33 @@ https://www.geeksforgeeks.org/profile/ranjanricha12
 
 <img src="https://skillicons.dev/icons?i=github"/>
 
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
 <img src="https://skillicons.dev/icons?i=postman"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
 
 </p>
 
 ---
 
-# 📌 Featured Projects
+# 🏆 Featured Projects
 
-## 📚 StudyBuddy
-
-AI Powered Learning Platform
-
-React • Node • MongoDB
-
-- AI Chatbot
-- PDF Analyzer
-- Code Analyzer
-- Voice Assistant
-- Video Analyzer
-
-Repository:
-(Add Link)
+| Project | Description |
+|----------|-------------|
+| 📚 StudyBuddy | AI Powered Learning Platform with Chatbot, Voice Assistant, PDF & Code Analyzer |
+| 🍔 Food Delivery App | MERN Stack application with JWT Authentication, RBAC and REST APIs |
+| 🌱 Crop Prediction | Machine Learning model achieving 94.5% prediction accuracy |
+| 📊 Spreadsheet Enhancement | Excel-like spreadsheet with formulas and dynamic evaluation |
+| 💼 Job Portal | Full Stack Job Portal built with React |
 
 ---
 
-## 🍔 Food Delivery App
-
-Full Stack MERN Application
-
-- Authentication
-- JWT
-- Stripe
-- Admin Panel
-- User Panel
-
-Repository:
-(Add Link)
-
----
-
-## 🌱 Crop Prediction System
-
-Machine Learning Project
-
-- Random Forest
-- 94% Accuracy
-- Python
-- Scikit Learn
-
-Repository:
-(Add Link)
-
----
-
-# 📊 GitHub Stats
+# 📈 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Richa-Ranjan&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Richa-Ranjan&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richa-Ranjan&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richa-Ranjan&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
@@ -171,44 +177,87 @@ Repository:
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Richa-Ranjan&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Richa-Ranjan&theme=github-dark-blue&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 📊 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Richa-Ranjan&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Richa-Ranjan&theme=github-compact"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 🏅 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Richa-Ranjan&theme=tokyo-night"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Richa-Ranjan&theme=algolia&margin-w=15&column=4"/>
 
 </p>
 
 ---
 
-# 🤝 Connect With Me
+# 📌 Coding Profiles
 
 <p>
 
-<a href="mailto:ranjanricha975@gmail.com">Email</a> •
+<a href="https://www.geeksforgeeks.org/profile/ranjanricha12">
 
-<a href="https://www.linkedin.com/in/rranjan-tech">LinkedIn</a> •
+<img src="https://img.shields.io/badge/450%2B%20DSA%20Problems-GeeksforGeeks-success?style=for-the-badge"/>
 
-<a href="https://www.geeksforgeeks.org/profile/ranjanricha12">GeeksforGeeks</a>
+</a>
 
 </p>
 
 ---
 
-⭐ Thanks for visiting my profile!
+# 💼 Experience
+
+💻 Web Developer Intern
+
+**Codesoft**
+
+- Responsive Dashboard
+- Performance Optimization
+- Git Version Control
+- UI Debugging
+
+---
+
+# 🎯 2026 Goals
+
+- Crack Product Based Companies
+
+- Contribute to Open Source
+
+- Learn Spring Boot
+
+- Build SaaS Products
+
+- Master Backend Engineering
+
+---
+
+# 📫 Let's Connect
+
+📧 **ranjanricha975@gmail.com**
+
+🔗 LinkedIn
+
+💻 GitHub
+
+🌍 GeeksforGeeks
+
+---
+
+<div align="center">
+
+### ⭐ If you like my projects, consider giving them a star!
+
+</div>
