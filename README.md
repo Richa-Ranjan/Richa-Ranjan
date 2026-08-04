@@ -1,25 +1,3 @@
-<h1 align="center">Hi 👋, I'm Richa Ranjan</h1>
-<h3 align="center">Software Engineer | Full Stack Developer (MERN) | Machine Learning Enthusiast</h3>
-
-<p align="center">
-<a href="mailto:ranjanricha975@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/rranjan-tech" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/Richa-Ranjan" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/u/Richa_Ranjan7/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-<a href="https://www.geeksforgeeks.org/profile/ranjanricha12" target="_blank">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-</p>
-
----
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:181717&height=200&section=header&text=Richa%20Ranjan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20ML%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
