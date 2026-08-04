@@ -1,74 +1,214 @@
-# 👋 Hello, I'm Richa Ranjan
+<h1 align="center">Hi 👋, I'm Richa Ranjan</h1>
 
-💻 Passionate Full-Stack Developer | 🚀 Future-Ready Engineer | 🎯 Problem Solver
+<h3 align="center">
+Software Developer | MERN Stack Developer | Java | Python | Open to Work
+</h3>
+
+<p align="center">
+Passionate about building scalable web applications, solving DSA problems and exploring AI-powered software solutions.
+</p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a Computer Science and Business Systems undergraduate at **Asansol Engineering College (Batch 2022–2026)**,
-actively building scalable, real-world solutions using modern technologies. With a strong foundation in **MERN Stack**, **Java**, and **Spring Boot**,
-I specialize in writing clean, maintainable code and turning product ideas into working solutions.
+🎓 B.Tech in Computer Science & Business Systems (2022–2026)
 
-I believe in continuous learning, collaborative development, and pushing boundaries through technology.
+💻 Interested in Full Stack Development
 
----
+🌱 Currently improving DSA, System Design & Backend Development
 
-## 👩‍💻 Tech Stack & Skills
+🚀 Looking for Software Development Engineer opportunities
 
-- **Languages**: JavaScript, Java, C, HTML, CSS  
-- **Frameworks & Libraries**: React.js, Node.js, Express.js, Spring Boot, Bootstrap  
-- **Tools & Platforms**: Git, GitHub, Postman, VS Code, MongoDB, 
-- **Core CS**: Operating Systems, DBMS, OOPs
+📫 Email:
+**ranjanricha975@gmail.com**
 
----
+🌐 LinkedIn:
+https://www.linkedin.com/in/rranjan-tech
 
-## 🛠️ Featured Projects
-
-### 🔹 [Food Delivery App (MERN)](https://github.com/Richa-Ranjan/food_delivery)
-- Built full-stack REST APIs with **JWT authentication**, order management, and cart logic
-- Designed real-world business flow and user experience
-
-### 🔹 [Excel Clone](https://github.com/Richa-Ranjan/excel_clone)
-- Enhanced an open-source spreadsheet project with **Dark/Light mode**, navigation header, and UI improvements
-- Extended a large codebase, showcasing deep **frontend debugging** and **code integration** skills
-
-### 🔹 Employee Management System (Spring Boot)
-- Developed secure backend APIs and implemented **CRUD operations** for enterprise use cases
-- Applied **design patterns** and best practices for modular architecture
+💻 GeeksforGeeks:
+https://www.geeksforgeeks.org/profile/ranjanricha12
 
 ---
 
-## 🌱 Currently Working On
+## 🛠 Tech Stack
 
-- Advanced React + js Projects   
-- Scalable Excel-like Web App with Workbook & Data Tools
+### Languages
 
----
+<p>
 
-## 🏆 Achievements
+<img src="https://skillicons.dev/icons?i=java"/>
 
-- 🥇 **Smart India Hackathon 2024** – Ranked Top 8 among 80+ teams at college-level
-- 💡 Solved **400+ DSA problems** on GeeksforGeeks with a focus on **optimized coding**
-- 🛡️ Attended **Ethical Hacking Workshop at IIT Kharagpur**
+<img src="https://skillicons.dev/icons?i=cpp"/>
 
----
+<img src="https://skillicons.dev/icons?i=python"/>
 
-## 🤝 Let’s Connect
+<img src="https://skillicons.dev/icons?i=js"/>
 
-- 📬 Email: ranjanricha975@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/rranjan-tech)  
-- 💡 [GeeksforGeeks](https://www.geeksforgeeks.org/user/ranjanricha12)  
-- 👨‍💻 [GitHub](https://github.com/Richa-Ranjan)
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+</p>
 
 ---
 
-## 😄 Pronouns
-She/Her
+### Frontend
 
-## ✨ Fun Fact
-When I’m not coding, you’ll find me **sketching with a pencil**, cycling through ideas, or strategizing on a volleyball court.
+<p>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=bootstrap"/>
+
+<img src="https://skillicons.dev/icons?i=vite"/>
+
+</p>
 
 ---
 
-📌 *“Code with clarity. Build with purpose. Grow without limits.”*
+### Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+<img src="https://skillicons.dev/icons?i=express"/>
+
+</p>
+
+---
+
+### Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</p>
+
+---
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=postman"/>
+
+</p>
+
+---
+
+# 📌 Featured Projects
+
+## 📚 StudyBuddy
+
+AI Powered Learning Platform
+
+React • Node • MongoDB
+
+- AI Chatbot
+- PDF Analyzer
+- Code Analyzer
+- Voice Assistant
+- Video Analyzer
+
+Repository:
+(Add Link)
+
+---
+
+## 🍔 Food Delivery App
+
+Full Stack MERN Application
+
+- Authentication
+- JWT
+- Stripe
+- Admin Panel
+- User Panel
+
+Repository:
+(Add Link)
+
+---
+
+## 🌱 Crop Prediction System
+
+Machine Learning Project
+
+- Random Forest
+- 94% Accuracy
+- Python
+- Scikit Learn
+
+Repository:
+(Add Link)
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Richa-Ranjan&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richa-Ranjan&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Richa-Ranjan&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Richa-Ranjan&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Richa-Ranjan&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p>
+
+<a href="mailto:ranjanricha975@gmail.com">Email</a> •
+
+<a href="https://www.linkedin.com/in/rranjan-tech">LinkedIn</a> •
+
+<a href="https://www.geeksforgeeks.org/profile/ranjanricha12">GeeksforGeeks</a>
+
+</p>
+
+---
+
+⭐ Thanks for visiting my profile!
