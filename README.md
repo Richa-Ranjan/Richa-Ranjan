@@ -15,7 +15,7 @@
 
 I'm a final-year Computer Science & Business Systems student who enjoys building things end-to-end — from designing a REST API to shipping the React UI that talks to it. My work leans toward **full-stack development** with the MERN stack, but I also spend a good chunk of time in **machine learning**, training models and building small AI-powered tools. Outside of building, I keep my problem-solving sharp with **450+ DSA problems** solved on GeeksforGeeks.
 
-Currently exploring **System Design**, **Spring Boot**, and **Cloud Technologies** — always looking to go one layer deeper into how things scale.
+Currently exploring **System Design**, **Spring Boot**, and **ML** — always looking to go one layer deeper into how things scale.
 
 🚀 Open to **SDE**, **Full Stack Developer**, and **Backend Developer** roles.
 
