@@ -71,7 +71,7 @@ Full-stack food ordering app built on the MERN stack with JWT auth and role-base
 
 `MongoDB` `Express` `React` `Node.js` `JWT`
 
-[View Repo →](https://github.com/Richa-Ranjan)
+[View Repo →](https://github.com/Richa-Ranjan/Food-Delivery-App-Using-MERN)
 
 </td>
 <td width="50%" valign="top">
@@ -93,7 +93,7 @@ ML model recommending optimal crops from agricultural data, using Decision Tree 
 
 `Python` `Scikit-learn` `Pandas`
 
-[View Repo →](https://github.com/Richa-Ranjan)
+[View Repo →](https://github.com/Richa-Ranjan/Crop-Prediction_Proj)
 
 </td>
 <td width="50%" valign="top">
@@ -103,7 +103,7 @@ A vanilla-JS, Excel-style spreadsheet with dynamic formula evaluation, live cell
 
 `JavaScript` `HTML` `CSS`
 
-[View Repo →](https://github.com/Richa-Ranjan)
+[View Repo →](https://github.com/Richa-Ranjan/excel_clone)
 
 </td>
 </tr>
